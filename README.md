@@ -1,9 +1,9 @@
-### Prazer! Meu nome é Alexandre Tavares e é um enorme prazer te encontrar por aqui :) 
+### Hello! My name is Alexandre Tavares and it's a pleasure to have you here :) 
 
 
-- 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo
-- 📫 Para entrar em contato: alexandre.j.tavares.jr@gmail.com
-- ⚡ Nerd e amador de jogos competitivos!
+- 🔭 Currently, I'm coursing System's Analysis and Development on São Paulo Federal Institute
+- 📫 Contact in: alexandre.j.tavares.jr@gmail.com
+- ⚡ Nerd and competitive games lover!
 
 
 <div align="center">
@@ -26,7 +26,5 @@
   <a href="https://www.instagram.com/dev.alexandre_tvrs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "alexandre.j.tavares.jr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexandre-tavares-17239a19a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/alexandre-tvrs/alexandre-tvrs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
