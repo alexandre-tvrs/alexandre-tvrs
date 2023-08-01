@@ -16,7 +16,7 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/cf/53/e4/cf53e43bd067d4f4cbe6379bba4935cf.jpg">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/87/67/75/876775e1efad70f972272cab0b6bf0a7.jpg">
 </div>
   
   ##
