@@ -28,7 +28,10 @@ I'm an back-end developer and an future Machine Learning Engineer by FIAP.
 #
 
 ### 📊 Stats
-https://github-readme-stats.vercel.app/api?username=alexandre-tvrs&show_icons=true&theme=gruvbox)
+
+![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-tvrs&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=alexandre-tvrs&theme=gruvbox&border_radius=4.5) -->
 
 #
 [website]: https://fkcodes.com
