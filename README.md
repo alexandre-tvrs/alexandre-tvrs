@@ -1,4 +1,6 @@
-# 👾 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Alexandre+Tavares)](https://git.io/typing-svg)
+![github-header-image](https://github.com/user-attachments/assets/e86ef41f-aa96-43a7-b294-e379ac660e0e)
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Alexandre+Tavares)](https://git.io/typing-svg)
 
 **`Developer | Machine Learning Engineer`**
 
@@ -26,10 +28,7 @@ I'm an back-end developer and an future Machine Learning Engineer by FIAP.
 #
 
 ### 📊 Stats
-
-![Alexandre's GitHub stats](![github-header-image](https://github.com/user-attachments/assets/5d46007e-37ff-47be-a350-a949cc054a54)
 https://github-readme-stats.vercel.app/api?username=alexandre-tvrs&show_icons=true&theme=gruvbox)
-![github-header-image](https://github.com/user-attachments/assets/e86ef41f-aa96-43a7-b294-e379ac660e0e)
 
 #
 [website]: https://fkcodes.com
