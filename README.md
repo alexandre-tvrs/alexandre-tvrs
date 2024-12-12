@@ -4,7 +4,7 @@
 
 **`Developer | Machine Learning Engineer`**
 
-I'm an back-end developer and an future Machine Learning Engineer by FIAP.
+I'm an back-end developer and an future Machine Learning Engineer.
 
 ---
 
