@@ -29,7 +29,7 @@ I'm an back-end developer and an future Machine Learning Engineer.
 
 ### 📊 Stats
 
-![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-tvrs&show_icons=true&theme=gruvbox)
+![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-tvrs&show_icons=true&theme=transparent&include_all_commits=true)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=alexandre-tvrs&theme=gruvbox&border_radius=4.5) -->
 
