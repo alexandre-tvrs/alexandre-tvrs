@@ -25,12 +25,6 @@ I'm an back-end developer and an future Machine Learning Engineer.
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <br />
 
-#
-
-### 📊 Stats
-
-![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-tvrs&show_icons=true&theme=transparent&count_private=true)
-
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=alexandre-tvrs&theme=gruvbox&border_radius=4.5) -->
 
 #
